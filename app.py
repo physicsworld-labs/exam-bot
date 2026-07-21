@@ -1,4 +1,4 @@
-print("import os
+import os
 from google import genai
 
 # Gemini API Client Initialization
@@ -26,4 +26,4 @@ if __name__ == "__main__":
     test_question = "What are the core subjects for UPSC Prelims?"
     print(f"Question: {test_question}\n")
     print("AI Response:")
-    print(generate_exam_response(test_question))am Bot Server Initialized Successfully!")
+    print(generate_exam_response(test_question))
