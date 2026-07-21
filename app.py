@@ -1,4 +1,4 @@
-print("Eximport os
+print("import os
 from google import genai
 
 # Gemini API Client Initialization
